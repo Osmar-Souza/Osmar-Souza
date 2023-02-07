@@ -13,6 +13,7 @@
   <img align="center" alt="Osmar-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
   <img align="center" alt="Osmar-kivy" height="30" width="40" src="https://github.com/Osmar-Souza/Osmar-Souza/blob/main/kivy_icon2.svg">
   <img align="center" alt="Osmar-Scss" height="30" width="40" src="https://github.com/Osmar-Souza/Osmar-Souza/blob/main/64px-Sass_Logo_Color.svg.png">
+  <img align="center" alt="Osmar-Angular" height="30" width="40" src="https://github.com/Osmar-Souza/Osmar-Souza/blob/main/angular.svg">
 </div>
   
   ##
