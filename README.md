@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Go and python
 - 😄 Pronouns: ele/dele
 
-![Valdinei GitHub stats](https://github-readme-stats.vercel.app/api?username=Osmar-Souza&show_icons=true&theme=blue-green)
+![Osmar GitHub stats](https://github-readme-stats.vercel.app/api?username=Osmar-Souza&show_icons=true&theme=blue-green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osmar-Souza&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
