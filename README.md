@@ -4,9 +4,13 @@
 - 🌱 I’m currently learning Go and python
 - 😄 Pronouns: ele/dele
 
-![Osmar-Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=Osmar-Souza&show_icons=true&theme=blue-green)
+<div align="center">
+<img width= "49%" height="195px" src = https://github-readme-stats.vercel.app/api?username=Osmar-Souza&show_icons=true&&layout=compact&hide_border=true&count_private=true&theme=blue-green alt= "Osmar Souza github stats"/>
+<img width= "49%" height="195px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Osmar-Souza&theme=blue-green&layout=compact&hide_border=true"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osmar-Souza&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osmar-Souza&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)-->
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Osmar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
