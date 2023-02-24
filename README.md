@@ -15,7 +15,7 @@
   <img align="center" alt="Osmar-Scss" height="30" width="40" src="https://github.com/Osmar-Souza/Osmar-Souza/blob/main/64px-Sass_Logo_Color.svg.png">
   <img align="center" alt="Osmar-Angular" height="30" width="40" src="https://github.com/Osmar-Souza/Osmar-Souza/blob/main/angular.svg">
   <img align="center" alt="Osmar-Typescript" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
-  <img align="center" alt="Osmar-HTML5" height="30" width="40" src="https://github.com/Osmar-Souza/Osmar-Souza/blob/main/Html5.svg">
+  <img align="center" alt="Osmar-HTML5" height="30" width="40" src="https://github.com/Osmar-Souza/Osmar-Souza/blob/main/Html5.png">
   
   
 </div>
