@@ -1,13 +1,15 @@
-## Hi there, I'm Osmar Souza
+<h1> Hi there, I'm Osmar Souza </h1>
 
 - 🔭 I’m currently working on full stack
-- 🌱 I’m currently learning Go and python
+- 🌱 I’m currently learning Angular framework
 - 😄 Pronouns: ele/dele
 
-<div align="center">
+<div align="left">
 <img width= "49%" height="195px" src = https://github-readme-stats.vercel.app/api?username=Osmar-Souza&show_icons=true&&layout=compact&hide_border=true&count_private=true&theme=blue-green alt= "Osmar Souza github stats"/>
-<img width= "49%" height="195px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Osmar-Souza&theme=blue-green&layout=compact&hide_border=true"/>
 </div>
+<div align="left">
+  <img width= "49%" height="195px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Osmar-Souza&theme=blue-green&layout=compact&hide_border=true"/>
+ <div>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osmar-Souza&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)-->
 
